@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://itunes.com" version="2.0">
+  <channel>
+    <title>Historia y Conocimiento con Vera Román</title>
+    <link>https://github.io/vera-podcasts</link>
+    <language>es</language>
+    <itunes:author>Vera Román</itunes:author>
+    <description>Podcasts privados generados a medida para Andrés Pardo.</description>
+    <itunes:explicit>false</itunes:explicit>
+  <item><title>Episodio 0: Bienvenida de Vera, Elena y Tomás</title><description>Episodio generado por Vera Román: Episodio 0: Bienvenida de Vera, Elena y Tomás</description><pubDate>Thu, 26 Nov 2026 22:18:42 +0000</pubDate><guid>https://github.io/vera-podcasts/20261126_episodio_cero.mp3</guid><enclosure url="https://github.io/vera-podcasts/20261126_episodio_cero.mp3" length="226577" type="audio/mpeg" /></item></channel>
+</rss>
