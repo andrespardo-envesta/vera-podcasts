@@ -5,8 +5,12 @@
     <link>https://andrespardo-envesta.github.io/vera-podcasts</link>
     <atom:link href="https://andrespardo-envesta.github.io/vera-podcasts/podcast.xml" rel="self" type="application/rss+xml" />
     <language>es</language>
+    <copyright>2026 Andres Pardo</copyright>
+    <managingEditor>andrespardo@envesta.co (Vera Román)</managingEditor>
+    <webMaster>andrespardo@envesta.co (Andres Pardo)</webMaster>
     <description>Podcasts privados generados a medida para Andrés Pardo.</description>
     <itunes:author>Vera Román</itunes:author>
+    <itunes:summary>Podcasts privados generados a medida para Andrés Pardo.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="History" />
     <itunes:image href="https://andrespardo-envesta.github.io/vera-podcasts/cover.jpg" />
@@ -22,6 +26,8 @@
     <item>
       <title>Episodio 0: Bienvenida de Vera, Elena y Tomás</title>
       <description>Episodio generado por Vera Román.</description>
+      <author>andrespardo@envesta.co (Vera Román)</author>
+      <itunes:author>Vera Román</itunes:author>
       <pubDate>Thu, 26 Nov 2026 22:20:00 +0000</pubDate>
       <guid>https://andrespardo-envesta.github.io/vera-podcasts/20261126_episodio_cero.mp3</guid>
       <enclosure url="https://andrespardo-envesta.github.io/vera-podcasts/20261126_episodio_cero.mp3" length="150000" type="audio/mpeg" />
