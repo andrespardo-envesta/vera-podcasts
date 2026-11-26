@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:itunes="http://itunes.com" xmlns:atom="http://w3.org">
+  <channel>
+    <title>Historia y Conocimiento con Vera Román</title>
+    <link>https://andrespardo-envesta.github.io/vera-podcasts</link>
+    <atom:link href="https://andrespardo-envesta.github.io/vera-podcasts/podcast.xml" rel="self" type="application/rss+xml" />
+    <language>es</language>
+    <description>Podcasts privados generados a medida para Andrés Pardo.</description>
+    <itunes:author>Vera Román</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="History" />
+    <itunes:image href="https://andrespardo-envesta.github.io/vera-podcasts/cover.jpg" />
+    <image>
+      <url>https://andrespardo-envesta.github.io/vera-podcasts/cover.jpg</url>
+      <title>Historia y Conocimiento con Vera Román</title>
+      <link>https://andrespardo-envesta.github.io/vera-podcasts</link>
+    </image>
+    <itunes:owner>
+      <itunes:name>Andres Pardo</itunes:name>
+      <itunes:email>andrespardo@envesta.co</itunes:email>
+    </itunes:owner>
+    <item>
+      <title>Episodio 0: Bienvenida de Vera, Elena y Tomás</title>
+      <description>Episodio generado por Vera Román.</description>
+      <pubDate>Thu, 26 Nov 2026 22:20:00 +0000</pubDate>
+      <guid>https://andrespardo-envesta.github.io/vera-podcasts/20261126_episodio_cero.mp3</guid>
+      <enclosure url="https://andrespardo-envesta.github.io/vera-podcasts/20261126_episodio_cero.mp3" length="150000" type="audio/mpeg" />
+    </item>
+  </channel>
+</rss>
