@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Historia y Conocimiento con Vera Roman</title>
     <link>https://andrespardo-envesta.github.io/vera-podcasts</link>
@@ -21,5 +21,5 @@
       <guid>https://andrespardo-envesta.github.io/vera-podcasts/20261126_episodio_cero.mp3</guid>
       <enclosure url="https://andrespardo-envesta.github.io/vera-podcasts/20261126_episodio_cero.mp3" length="150000" type="audio/mpeg" />
     </item>
-  </channel>
+  <item><title>Historia de los Balcanes: de la antiguedad a hoy</title><description>Episodio generado por Vera Román: Historia de los Balcanes: de la antiguedad a hoy</description><pubDate>Fri, 27 Nov 2026 00:36:28 +0000</pubDate><guid>https://andrespardo-envesta.github.io/vera-podcasts/20261126_historia_balcanes.mp3</guid><enclosure url="https://andrespardo-envesta.github.io/vera-podcasts/20261126_historia_balcanes.mp3" length="28862424" type="audio/mpeg" /></item></channel>
 </rss>
